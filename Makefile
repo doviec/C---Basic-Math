@@ -1,4 +1,4 @@
-# _*_ Makefile _*_
+
 
 CC=gcc
 AR=ar
