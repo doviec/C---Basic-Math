@@ -1,4 +1,4 @@
-#DoviecMakeFile
+#cashmash
 
 CC=gcc
 AR=ar
